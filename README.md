@@ -1,4 +1,4 @@
-![][image1]  
+![][/Downloads/quintessentialnotionlogo.png]  
 Quintessential Notion  
 **The ULTIMATE Student Dashboard**
 
