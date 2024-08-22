@@ -9,7 +9,7 @@
 
 ---
 
-[](/Screenshot from 2024-08-22 17-53-54.png)
+![](readmestuff.png)
 
 ##      **Highlights**   
 
