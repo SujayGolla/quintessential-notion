@@ -9,6 +9,8 @@
 
 ---
 
+[](/Screenshot from 2024-08-22 17-53-54.png)
+
 ##      **Highlights**   
 
 1. **EVERYTHING** (Academic and Personal 😱) you’ll ever need in ONE place and in **TWO** different flavors\! 
