@@ -1,5 +1,5 @@
 # Quintessential Notion  
-**The ULTIMATE Student Dashboard**
+## The ULTIMATE Student Dashboard
 
 [Minimalistic Template](https://vaulted-beast-8ec.notion.site/The-Ultimate-Student-Dashboard-8b6c1874b3d34dc1b2bad55486e1f756?pvs=74)
 
