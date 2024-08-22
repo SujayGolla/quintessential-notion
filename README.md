@@ -1,8 +1,8 @@
-![][/Downloads/quintessentialnotionlogo.png]  
+![]  
 Quintessential Notion  
 **The ULTIMATE Student Dashboard**
 
-[**![][image2]**](https://vaulted-beast-8ec.notion.site/The-Ultimate-Student-Dashboard-8b6c1874b3d34dc1b2bad55486e1f756?pvs=74) 		**	[![][image3]](https://sites.google.com/view/quintessentialnotion/home)			[![][image4]](https://invited-cactus-083.notion.site/The-Ultimate-Student-Dashboard-fff3a633bc04808bb040eab9e4f45394?pvs=74)**  
+[**![](https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png)(https://vaulted-beast-8ec.notion.site/The-Ultimate-Student-Dashboard-8b6c1874b3d34dc1b2bad55486e1f756?pvs=74) 		**	[![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Google_Sites_%282014-2020%29.svg/2048px-Google_Sites_%282014-2020%29.svg.png)(https://sites.google.com/view/quintessentialnotion/home)			[![](https://cdn.dribbble.com/users/1299339/screenshots/14010784/media/a357680d0de5e66855d5654913fcc129.png?resize=400x300&vertical=center)(https://invited-cactus-083.notion.site/The-Ultimate-Student-Dashboard-fff3a633bc04808bb040eab9e4f45394?pvs=74)**  
 ---
 
 ![][image5]         ![][image6] 
