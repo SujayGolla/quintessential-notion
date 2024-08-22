@@ -1,6 +1,4 @@
-![](/quintessentialnotionlogo.png)
-
-#Quintessential Notion  
+# Quintessential Notion  
 **The ULTIMATE Student Dashboard**
 
 [Minimalistic Template](https://vaulted-beast-8ec.notion.site/The-Ultimate-Student-Dashboard-8b6c1874b3d34dc1b2bad55486e1f756?pvs=74)
@@ -10,8 +8,6 @@
 [Google Sites](https://sites.google.com/view/quintessentialnotion/home)
 
 ---
-
-![][/Screenshot 2024-07-26 12.00.29.png]         ![][/Screenshot 2024-07-26 13.33.09.png] 
 
 ##      **Highlights**   
 
